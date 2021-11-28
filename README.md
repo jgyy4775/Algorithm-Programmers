@@ -19,4 +19,6 @@
 2.  [124 나라의 숫자] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12899)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12899.py) [[설명]](https://blog.naver.com/jgyy4775/222578445669)
 3.  [오픈채팅방] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42888)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42888.py) [[설명]](https://blog.naver.com/jgyy4775/222578617681)
 4.  [메뉴 리뉴얼] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72411)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72411.py) [[설명]](https://blog.naver.com/jgyy4775/222580479606)
+5.  [더 맵게]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42626)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42626.py) [[설명]](https://blog.naver.com/jgyy4775/222581210917)
+6.  
 
