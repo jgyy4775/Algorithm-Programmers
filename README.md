@@ -21,4 +21,7 @@
 4.  [메뉴 리뉴얼] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72411)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72411.py) [[설명]](https://blog.naver.com/jgyy4775/222580479606)
 5.  [크레인 인형뽑기 게임]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/64061)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/64061.py) [[설명]](https://blog.naver.com/jgyy4775/222580958291)
 6.  [더 맵게]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42626)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42626.py) [[설명]](https://blog.naver.com/jgyy4775/222581210917)
+7.  [기능 개발]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42586)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42586.py) [[설명]](https://blog.naver.com/jgyy4775/222584866490)
+8.  [튜플]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/64065)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/64065.py) [[설명]](https://blog.naver.com/jgyy4775/222584935056)
+9.  [순위 검색]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72412)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72412.py) [[설명]](https://blog.naver.com/jgyy4775/222585186628)
 
