@@ -11,6 +11,7 @@
 4.  [신규 아이디 추천] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72410)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72410.py) [[설명]](https://blog.naver.com/jgyy4775/222577448191)
 5.  [로또의 최고 순위와 최저 순위] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77484)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77484.py) [[설명]]
 6.  [내적] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70128)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70128.py) [[설명]]
+7.  [키패드 누르기] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/67256)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/67256.py) [[설명]](https://blog.naver.com/jgyy4775/222586178132)
 
 
 - - -
@@ -24,4 +25,5 @@
 7.  [기능 개발]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42586)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42586.py) [[설명]](https://blog.naver.com/jgyy4775/222584866490)
 8.  [튜플]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/64065)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/64065.py) [[설명]](https://blog.naver.com/jgyy4775/222584935056)
 9.  [순위 검색]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72412)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72412.py) [[설명]](https://blog.naver.com/jgyy4775/222585186628)
+10. [거리두기 확인하기]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/81302)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/81302.py) [[설명]](https://blog.naver.com/jgyy4775/222586119939)
 
