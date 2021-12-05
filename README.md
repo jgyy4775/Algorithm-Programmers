@@ -13,6 +13,7 @@
 6.  [내적] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70128)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70128.py) [[설명]]
 7.  [키패드 누르기] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/67256)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/67256.py) [[설명]](https://blog.naver.com/jgyy4775/222586178132)
 8.  [체육복] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42862)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42862.py) [[설명]](https://blog.naver.com/jgyy4775/222586935554)
+9.  [실패율] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42889)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42889.py) [[설명]](https://blog.naver.com/jgyy4775/222587361506)
 
 
 - - -
@@ -28,3 +29,6 @@
 9.  [순위 검색]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72412)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72412.py) [[설명]](https://blog.naver.com/jgyy4775/222585186628)
 10. [거리두기 확인하기]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/81302)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/81302.py) [[설명]](https://blog.naver.com/jgyy4775/222586119939)
 
+
+- - -
+## Level3
