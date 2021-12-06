@@ -28,7 +28,9 @@
 8.  [튜플]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/64065)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/64065.py) [[설명]](https://blog.naver.com/jgyy4775/222584935056)
 9.  [순위 검색]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72412)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72412.py) [[설명]](https://blog.naver.com/jgyy4775/222585186628)
 10. [거리두기 확인하기]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/81302)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/81302.py) [[설명]](https://blog.naver.com/jgyy4775/222586119939)
+11. [수식 최대화]  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/67257)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/67257.py) [[설명]](https://blog.naver.com/jgyy4775/222588208648)
 
 
 - - -
 ## Level3
+1.  [보석 쇼핑] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/67258)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/67258.py) [[설명]](https://blog.naver.com/jgyy4775/222588104649)
