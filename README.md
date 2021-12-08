@@ -14,6 +14,8 @@
 7.  [키패드 누르기] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/67256)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/67256.py) [[설명]](https://blog.naver.com/jgyy4775/222586178132)
 8.  [체육복] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42862)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42862.py) [[설명]](https://blog.naver.com/jgyy4775/222586935554)
 9.  [실패율] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42889)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42889.py) [[설명]](https://blog.naver.com/jgyy4775/222587361506)
+10.  [다트 게임] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17682)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17682.py) [[설명]](https://blog.naver.com/jgyy4775/222590049621)
+11.  [비밀지도] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17681)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17681.py) [[설명]](https://blog.naver.com/jgyy4775/222590243233)
 
 
 - - -
