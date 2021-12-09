@@ -37,3 +37,4 @@
 - - -
 ## Level3
 1.  [보석 쇼핑] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/67258)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/67258.py) [[설명]](https://blog.naver.com/jgyy4775/222588104649)
+2.  [표 편집] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/81303)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/81303.py) [[설명]](https://blog.naver.com/jgyy4775/222591493192)
