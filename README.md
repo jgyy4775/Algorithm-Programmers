@@ -39,6 +39,7 @@
 17. [압축] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17684)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17684.py) [[설명]](https://blog.naver.com/jgyy4775/222593468490)
 18. [프렌즈4블록] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17679)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17679.py) [[설명]](https://blog.naver.com/jgyy4775/222594427364)
 19. [후보키] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42890)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42890.py) [[설명]](https://blog.naver.com/jgyy4775/222595278976)
+20. [n진수 게임] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17687)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17687.py) [[설명]](https://blog.naver.com/jgyy4775/222596196239)
 
 
 - - -
@@ -49,3 +50,4 @@
 4.  [추석 트랙픽] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17676)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17676.py) [[설명]](https://blog.naver.com/jgyy4775/222593681033)
 5.  [자물쇠와 열쇠] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/60059)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/60059.py) [[설명]](https://blog.naver.com/jgyy4775/222594740239)
 6.  [징검다리 건너기] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/64062)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/64062.py) [[설명]](https://blog.naver.com/jgyy4775/222595590714)
+7.  [셔틀버스] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17678)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17678.py) [[설명]](https://blog.naver.com/jgyy4775/222596405331)
