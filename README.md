@@ -52,6 +52,8 @@
 5.  [자물쇠와 열쇠] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/60059)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/60059.py) [[설명]](https://blog.naver.com/jgyy4775/222594740239)
 6.  [징검다리 건너기] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/64062)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/64062.py) [[설명]](https://blog.naver.com/jgyy4775/222595590714)
 7.  [셔틀버스] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17678)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17678.py) [[설명]](https://blog.naver.com/jgyy4775/222596405331)
+8.  [합승 택시 요금] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72413)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72413.py) [[설명]](https://blog.naver.com/jgyy4775/222597898830)
+9.  [광고 삽입] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72414)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72414.py) [[설명]](https://blog.naver.com/jgyy4775/222598117727)
 
 
 - - -
