@@ -44,6 +44,7 @@
 22. H-Index [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42747)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42747.py) [[설명]](https://blog.naver.com/jgyy4775/222598834203)
 23. 프린터 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42587)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42587.py) [[설명]](https://blog.naver.com/jgyy4775/222598831003)
 24. 다음 큰 숫자 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12911)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12911.py) [[설명]](https://blog.naver.com/jgyy4775/222598799475)
+25. 위장 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42578)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42578.py) [[설명]](https://blog.naver.com/jgyy4775/222599423189)
 
 
 
