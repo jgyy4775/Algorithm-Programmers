@@ -59,6 +59,8 @@
 7.  셔틀버스 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17678)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17678.py) [[설명]](https://blog.naver.com/jgyy4775/222596405331)
 8.  합승 택시 요금 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72413)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72413.py) [[설명]](https://blog.naver.com/jgyy4775/222597898830)
 9.  광고 삽입 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72414)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72414.py) [[설명]](https://blog.naver.com/jgyy4775/222598117727)
+10.  2Xn 타일링 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12900)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12900.py) [[설명]](https://blog.naver.com/jgyy4775/222600443770)
+
 
 
 - - -
