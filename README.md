@@ -10,7 +10,7 @@
 3.  숫자 문자열과 영단어] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/81301)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/81301.py) [[설명]](https://blog.naver.com/jgyy4775/222576618678)
 4.  신규 아이디 추천 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72410)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72410.py) [[설명]](https://blog.naver.com/jgyy4775/222577448191)
 5.  로또의 최고 순위와 최저 순위] [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77484)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77484.py) [설명]
-6.  내적 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70128)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70128.py) [[설명]]
+6.  내적 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70128)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70128.py) [설명]
 7.  키패드 누르기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/67256)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/67256.py) [[설명]](https://blog.naver.com/jgyy4775/222586178132)
 8.  체육복 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42862)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42862.py) [[설명]](https://blog.naver.com/jgyy4775/222586935554)
 9.  실패율 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42889)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42889.py) [[설명]](https://blog.naver.com/jgyy4775/222587361506)
@@ -60,6 +60,7 @@
 8.  합승 택시 요금 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72413)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72413.py) [[설명]](https://blog.naver.com/jgyy4775/222597898830)
 9.  광고 삽입 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72414)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72414.py) [[설명]](https://blog.naver.com/jgyy4775/222598117727)
 10.  2Xn 타일링 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12900)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12900.py) [[설명]](https://blog.naver.com/jgyy4775/222600443770)
+11.  정수 삼각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43105)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43105.py) [[설명]](https://blog.naver.com/jgyy4775)
 
 
 
