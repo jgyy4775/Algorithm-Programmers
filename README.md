@@ -46,6 +46,7 @@
 24. 다음 큰 숫자 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12911)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12911.py) [[설명]](https://blog.naver.com/jgyy4775/222598799475)
 25. 위장 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42578)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42578.py) [[설명]](https://blog.naver.com/jgyy4775/222599423189)
 26. 다리를 지나는 트럭 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42583)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42583.py) [[설명]](https://blog.naver.com/jgyy4775/222602167949)
+27. 카펫 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42842)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42842.py) [[설명]](https://blog.naver.com/jgyy4775/222603133242)
 
 
 
@@ -61,7 +62,8 @@
 8.  합승 택시 요금 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72413)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72413.py) [[설명]](https://blog.naver.com/jgyy4775/222597898830)
 9.  광고 삽입 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/72414)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/72414.py) [[설명]](https://blog.naver.com/jgyy4775/222598117727)
 10.  2Xn 타일링 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12900)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12900.py) [[설명]](https://blog.naver.com/jgyy4775/222600443770)
-11.  정수 삼각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43105)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43105.py) [[설명]](https://blog.naver.com/jgyy4775)
+11.  정수 삼각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43105)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43105.py) [[설명]](https://blog.naver.com/jgyy4775/222600957142)
+12.  등굣길 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42898)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42898.py) [[설명]](https://blog.naver.com/jgyy4775/222603133589)
 
 
 
