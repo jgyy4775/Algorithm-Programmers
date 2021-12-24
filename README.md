@@ -64,6 +64,7 @@
 10.  2Xn 타일링 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12900)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12900.py) [[설명]](https://blog.naver.com/jgyy4775/222600443770)
 11.  정수 삼각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43105)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43105.py) [[설명]](https://blog.naver.com/jgyy4775/222600957142)
 12.  등굣길 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42898)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42898.py) [[설명]](https://blog.naver.com/jgyy4775/222603133589)
+13.  네트워크  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43162)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43162.py) [[설명]](https://blog.naver.com/jgyy4775/222604016082)
 
 
 
