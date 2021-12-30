@@ -68,6 +68,7 @@
 14.  멀리 뛰기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12914)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12914.py) [[설명]](https://blog.naver.com/jgyy4775/222605765920)
 15.  베스트 앨범 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42579)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42579.py) [[설명]](https://blog.naver.com/jgyy4775/222607071409)
 16.  여행 경로 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43164)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43164.py) [[설명]](https://blog.naver.com/jgyy4775/222607631999)
+17.  입국 심사 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43238)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43238.py) [[설명]](https://blog.naver.com/jgyy4775/222608538314)
 
 
 
