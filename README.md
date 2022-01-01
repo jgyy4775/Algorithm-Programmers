@@ -47,6 +47,8 @@
 25. 위장 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42578)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42578.py) [[설명]](https://blog.naver.com/jgyy4775/222599423189)
 26. 다리를 지나는 트럭 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42583)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42583.py) [[설명]](https://blog.naver.com/jgyy4775/222602167949)
 27. 카펫 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42842)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42842.py) [[설명]](https://blog.naver.com/jgyy4775/222603133242)
+28. 짝지어 제거하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12973)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12973.py) [[설명]](https://blog.naver.com/jgyy4775/222610288986)
+29. 타겟 넘버 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43165)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43165.py) [[설명]](hthttps://blog.naver.com/jgyy4775/222610288563)
 
 
 
