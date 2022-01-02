@@ -49,8 +49,8 @@
 27. 카펫 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42842)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42842.py) [[설명]](https://blog.naver.com/jgyy4775/222603133242)
 28. 짝지어 제거하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12973)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12973.py) [[설명]](https://blog.naver.com/jgyy4775/222610288986)
 29. 타겟 넘버 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43165)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43165.py) [[설명]](https://blog.naver.com/jgyy4775/222610288563)
-30. 타겟 넘버 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43165)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43165.py) [[설명]](https://blog.naver.com/jgyy4775/222610288563)
-31. 타겟 넘버 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43165)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43165.py) [[설명]](https://blog.naver.com/jgyy4775/222610288563)
+30.  행렬 테두리 회전하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77485)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77485.py) [[설명]](https://blog.naver.com/jgyy4775/222611013418)
+31.  소수 찾기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42839)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42839.py) [[설명]](https://blog.naver.com/jgyy4775/222611018187)
 
 
 
@@ -73,7 +73,6 @@
 15.  베스트 앨범 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42579)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42579.py) [[설명]](https://blog.naver.com/jgyy4775/222607071409)
 16.  행렬 테두리 회전하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77485)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77485.py) [[설명]](https://blog.naver.com/jgyy4775/222611013418)
 17.  소수 찾기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42839)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42839.py) [[설명]](https://blog.naver.com/jgyy4775/222611018187)
-
 
 
 - - -
