@@ -74,6 +74,8 @@
 16.  여행 경로 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43164)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43164.py) [[설명]](https://blog.naver.com/jgyy4775/222607631999)
 17.  입국 심사 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43238)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43238.py) [[설명]](https://blog.naver.com/jgyy4775/222608538314)
 18.  N으로 표현 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42895)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42895.py) [[설명]](https://blog.naver.com/jgyy4775/222612075720)
+19.  가장 먼 노드 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/49189)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/49189.py) [[설명]](https://blog.naver.com/jgyy4775/222612696180)
+20.  야근 지수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12927)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12927.py) [[설명]](https://blog.naver.com/jgyy4775/222612730161)
 
 
 - - -
