@@ -81,6 +81,7 @@
 23.  섬 연결하기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42861)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42861.py) [[설명]](https://blog.naver.com/jgyy4775/222614822699)
 24.  기지국 설치  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12979)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12979.py) [[설명]](https://blog.naver.com/jgyy4775/222615504776)
 25.  줄 서는 방법  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12936)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12936.py) [[설명]](https://blog.naver.com/jgyy4775/222615784300)
+26.  이중우선순위큐  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42628)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42628.py) [[설명]](https://blog.naver.com/jgyy4775/222616511159)
 
 
 - - -
