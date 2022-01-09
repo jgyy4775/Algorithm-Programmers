@@ -82,6 +82,7 @@
 24.  기지국 설치  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12979)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12979.py) [[설명]](https://blog.naver.com/jgyy4775/222615504776)
 25.  줄 서는 방법  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12936)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12936.py) [[설명]](https://blog.naver.com/jgyy4775/222615784300)
 26.  이중우선순위큐  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42628)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42628.py) [[설명]](https://blog.naver.com/jgyy4775/222616511159)
+27.  가장 긴 펠린드롬  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12904)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12904.py) [[설명]](https://blog.naver.com/jgyy4775/222617259262)
 
 
 - - -
