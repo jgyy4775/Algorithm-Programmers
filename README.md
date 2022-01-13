@@ -86,6 +86,7 @@
 28.  단속카메라  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42884)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42884.py) [[설명]](https://blog.naver.com/jgyy4775/222618215630)
 29.  거스름돈  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12907)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12907.py) [[설명]](https://blog.naver.com/jgyy4775/222618924748)
 30.  단어변환  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43163)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43163.py) [[설명]](https://blog.naver.com/jgyy4775/222619884624)
+31.  숫자 게임  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12987)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12987.py) [[설명]](https://blog.naver.com/jgyy4775/222620822132) 
 
 
 - - -
