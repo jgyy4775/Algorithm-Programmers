@@ -87,6 +87,8 @@
 29.  거스름돈  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12907)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12907.py) [[설명]](https://blog.naver.com/jgyy4775/222618924748)
 30.  단어변환  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43163)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43163.py) [[설명]](https://blog.naver.com/jgyy4775/222619884624)
 31.  숫자 게임  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12987)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12987.py) [[설명]](https://blog.naver.com/jgyy4775/222620822132) 
+32.  방문 길이  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/49994)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/49994.py) [[설명]](https://blog.naver.com/jgyy4775/222622533307) 
+33.  예산  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12982)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12982.py) [[설명]](https://blog.naver.com/jgyy4775/222622541775) 
 
 
 - - -
