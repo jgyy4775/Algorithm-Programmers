@@ -89,6 +89,7 @@
 31.  숫자 게임  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12987)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12987.py) [[설명]](https://blog.naver.com/jgyy4775/222620822132) 
 32.  방문 길이  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/49994)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/49994.py) [[설명]](https://blog.naver.com/jgyy4775/222622533307) 
 33.  예산  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12982)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12982.py) [[설명]](https://blog.naver.com/jgyy4775/222622541775) 
+34.  다단계 칫솔 판매  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77486)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77486.py) [[설명]](https://blog.naver.com/jgyy4775/222625341283) 
 
 
 - - -
