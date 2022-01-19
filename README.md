@@ -16,6 +16,11 @@
 9.  실패율 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42889)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42889.py) [[설명]](https://blog.naver.com/jgyy4775/222587361506)
 10.  다트 게임 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17682)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17682.py) [[설명]](https://blog.naver.com/jgyy4775/222590049621)
 11.  비밀지도 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17681)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17681.py) [[설명]](https://blog.naver.com/jgyy4775/222590243233)
+12.  신고 결과 받기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92334)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92334.py) [[설명]](https://blog.naver.com/jgyy4775/222625947777)
+13.  없는 숫자 더하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86051)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86051.py) [[설명]]
+14.  음양 더하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/76501)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/76501.py) [[설명]]
+15.  가운데 글자 가져오기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12903)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12903.py) [[설명]]
+
 
 
 - - -
@@ -90,6 +95,7 @@
 32.  방문 길이  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/49994)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/49994.py) [[설명]](https://blog.naver.com/jgyy4775/222622533307) 
 33.  예산  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12982)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12982.py) [[설명]](https://blog.naver.com/jgyy4775/222622541775) 
 34.  다단계 칫솔 판매  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77486)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77486.py) [[설명]](https://blog.naver.com/jgyy4775/222625341283) 
+35.  외벽 점검  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/60062)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/60062.py) [[설명]](https://blog.naver.com/jgyy4775/222625859307) 
 
 
 - - -
