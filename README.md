@@ -17,9 +17,9 @@
 10.  다트 게임 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17682)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17682.py) [[설명]](https://blog.naver.com/jgyy4775/222590049621)
 11.  비밀지도 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/17681)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/17681.py) [[설명]](https://blog.naver.com/jgyy4775/222590243233)
 12.  신고 결과 받기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92334)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92334.py) [[설명]](https://blog.naver.com/jgyy4775/222625947777)
-13.  없는 숫자 더하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86051)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86051.py) [[설명]]
-14.  음양 더하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/76501)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/76501.py) [[설명]]
-15.  가운데 글자 가져오기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12903)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12903.py) [[설명]]
+13.  없는 숫자 더하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86051)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86051.py) [설명]
+14.  음양 더하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/76501)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/76501.py) [설명]
+15.  가운데 글자 가져오기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12903)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12903.py) [설명]
 
 
 
@@ -56,6 +56,8 @@
 29. 타겟 넘버 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/43165)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/43165.py) [[설명]](https://blog.naver.com/jgyy4775/222610288563)
 30.  행렬 테두리 회전하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77485)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77485.py) [[설명]](https://blog.naver.com/jgyy4775/222611013418)
 31.  소수 찾기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42839)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42839.py) [[설명]](https://blog.naver.com/jgyy4775/222611018187)
+32.  주차 요금 계산 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92341)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92341.py) [[설명]](https://blog.naver.com/jgyy4775/222627659093)
+33.  JadenCase 문자열 만들기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12951)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12951.py) [[설명]](https://blog.naver.com/jgyy4775/222627681363)
 
 
 
