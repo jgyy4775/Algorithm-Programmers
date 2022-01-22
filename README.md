@@ -20,6 +20,8 @@
 13.  없는 숫자 더하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86051)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86051.py) [설명]
 14.  음양 더하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/76501)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/76501.py) [설명]
 15.  가운데 글자 가져오기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12903)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12903.py) [설명]
+16.  소수 만들기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12977)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12977.py) [설명]
+17.  짝수와 홀수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12937)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12937.py) [설명]
 
 
 
@@ -58,6 +60,7 @@
 31.  소수 찾기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42839)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42839.py) [[설명]](https://blog.naver.com/jgyy4775/222611018187)
 32.  주차 요금 계산 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92341)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92341.py) [[설명]](https://blog.naver.com/jgyy4775/222627659093)
 33.  JadenCase 문자열 만들기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12951)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12951.py) [[설명]](https://blog.naver.com/jgyy4775/222627681363)
+34.  k진수에서 소수 개수 구하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92335)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92335.py) [[설명]](https://blog.naver.com/jgyy4775/222628569915)
 
 
 
