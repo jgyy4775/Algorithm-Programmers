@@ -61,6 +61,7 @@
 32.  주차 요금 계산 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92341)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92341.py) [[설명]](https://blog.naver.com/jgyy4775/222627659093)
 33.  JadenCase 문자열 만들기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12951)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12951.py) [[설명]](https://blog.naver.com/jgyy4775/222627681363)
 34.  k진수에서 소수 개수 구하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92335)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92335.py) [[설명]](https://blog.naver.com/jgyy4775/222628569915)
+35.  양궁 대회 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92342)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92342.py) [[설명]](https://blog.naver.com/jgyy4775/222629216682)
 
 
 
