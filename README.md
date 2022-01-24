@@ -62,6 +62,7 @@
 33.  JadenCase 문자열 만들기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12951)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12951.py) [[설명]](https://blog.naver.com/jgyy4775/222627681363)
 34.  k진수에서 소수 개수 구하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92335)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92335.py) [[설명]](https://blog.naver.com/jgyy4775/222628569915)
 35.  양궁 대회 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92342)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92342.py) [[설명]](https://blog.naver.com/jgyy4775/222629216682)
+36.  이진 변환 반복하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70129)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70129.py) [설명]
 
 
 
@@ -102,6 +103,7 @@
 33.  예산  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12982)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12982.py) [[설명]](https://blog.naver.com/jgyy4775/222622541775) 
 34.  다단계 칫솔 판매  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77486)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77486.py) [[설명]](https://blog.naver.com/jgyy4775/222625341283) 
 35.  외벽 점검  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/60062)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/60062.py) [[설명]](https://blog.naver.com/jgyy4775/222625859307) 
+36.  파괴되지 않은 건물  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92344)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92344.py) [[설명]](https://blog.naver.com/jgyy4775/222630112558) 
 
 
 - - -
