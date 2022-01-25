@@ -63,6 +63,8 @@
 34.  k진수에서 소수 개수 구하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92335)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92335.py) [[설명]](https://blog.naver.com/jgyy4775/222628569915)
 35.  양궁 대회 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92342)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92342.py) [[설명]](https://blog.naver.com/jgyy4775/222629216682)
 36.  이진 변환 반복하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70129)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70129.py) [설명]
+37.  최댓값과 최솟값 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12939)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12939.py) [설명]
+38.  가장 큰 수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42746)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42746.py) [[설명]](https://blog.naver.com/jgyy4775/222631052087)
 
 
 
@@ -104,6 +106,7 @@
 34.  다단계 칫솔 판매  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77486)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77486.py) [[설명]](https://blog.naver.com/jgyy4775/222625341283) 
 35.  외벽 점검  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/60062)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/60062.py) [[설명]](https://blog.naver.com/jgyy4775/222625859307) 
 36.  파괴되지 않은 건물  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92344)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92344.py) [[설명]](https://blog.naver.com/jgyy4775/222630112558) 
+37.  금과 은 운반하기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86053)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86053.py) [[설명]](https://blog.naver.com/jgyy4775/222630991696) 
 
 
 - - -
