@@ -65,6 +65,7 @@
 36.  이진 변환 반복하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70129)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70129.py) [설명]
 37.  최댓값과 최솟값 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12939)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12939.py) [설명]
 38.  가장 큰 수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42746)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42746.py) [[설명]](https://blog.naver.com/jgyy4775/222631052087)
+39.  숫자의 표현 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12924)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12924.py) [[설명]](https://blog.naver.com/jgyy4775/222631260550)
 
 
 
