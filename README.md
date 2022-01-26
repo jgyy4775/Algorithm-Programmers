@@ -66,6 +66,10 @@
 37.  최댓값과 최솟값 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12939)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12939.py) [설명]
 38.  가장 큰 수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42746)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42746.py) [[설명]](https://blog.naver.com/jgyy4775/222631052087)
 39.  숫자의 표현 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12924)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12924.py) [[설명]](https://blog.naver.com/jgyy4775/222631260550)
+40.  모음 사전 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/84512)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/84512.py) [설명]
+41.  구명보트 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42885)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42885.py) [설명]
+42.  배달 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12978)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12978.py) [[설명]](https://blog.naver.com/jgyy4775/222631805225)
+43.  피로도 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87946)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87946.py) [[설명]](https://blog.naver.com/jgyy4775/222631884551)
 
 
 
