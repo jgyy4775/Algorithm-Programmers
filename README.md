@@ -70,6 +70,7 @@
 41.  구명보트 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42885)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42885.py) [설명]
 42.  배달 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12978)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12978.py) [[설명]](https://blog.naver.com/jgyy4775/222631805225)
 43.  피로도 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87946)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87946.py) [[설명]](https://blog.naver.com/jgyy4775/222631884551)
+44.  땅따먹기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12913)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12913.py) [[설명]](https://blog.naver.com/jgyy4775/222632935723)
 
 
 
@@ -112,6 +113,7 @@
 35.  외벽 점검  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/60062)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/60062.py) [[설명]](https://blog.naver.com/jgyy4775/222625859307) 
 36.  파괴되지 않은 건물  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92344)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92344.py) [[설명]](https://blog.naver.com/jgyy4775/222630112558) 
 37.  금과 은 운반하기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86053)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86053.py) [[설명]](https://blog.naver.com/jgyy4775/222630991696) 
+38.  스티커 모으기(2)  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12971)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12971.py) [[설명]](https://blog.naver.com/jgyy4775/222632781893)
 
 
 - - -
