@@ -26,7 +26,7 @@
 
 
 - - -
-## Level2
+## Level2 
 1.  문자열 압축 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/60057)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/60057.py) [[설명]](https://blog.naver.com/jgyy4775/222577563371)
 2.  124 나라의 숫자 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12899)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12899.py) [[설명]](https://blog.naver.com/jgyy4775/222578445669)
 3.  오픈채팅방 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/42888)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/42888.py) [[설명]](https://blog.naver.com/jgyy4775/222578617681)
