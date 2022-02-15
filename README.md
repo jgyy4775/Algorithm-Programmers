@@ -71,6 +71,7 @@
 42.  배달 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12978)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12978.py) [[설명]](https://blog.naver.com/jgyy4775/222631805225)
 43.  피로도 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87946)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87946.py) [[설명]](https://blog.naver.com/jgyy4775/222631884551)
 44.  땅따먹기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12913)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12913.py) [[설명]](https://blog.naver.com/jgyy4775/222632935723)
+45.  2개 이하로 다른 비트 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77885)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77885.py) [[설명]](https://blog.naver.com/jgyy4775/222648369920)
 
 
 
