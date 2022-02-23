@@ -22,6 +22,8 @@
 15.  가운데 글자 가져오기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12903)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12903.py) [설명]
 16.  소수 만들기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12977)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12977.py) [설명]
 17.  짝수와 홀수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12937)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12937.py) [설명]
+18.  3진법 뒤집기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68935)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68935.py) [설명]
+19.  문자열 내 마음대로 정렬하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12915)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12915.py) [설명]
 
 
 
