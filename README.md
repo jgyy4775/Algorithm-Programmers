@@ -24,6 +24,7 @@
 17.  짝수와 홀수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12937)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12937.py) [설명]
 18.  3진법 뒤집기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68935)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68935.py) [설명]
 19.  문자열 내 마음대로 정렬하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12915)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12915.py) [설명]
+20.  최소직사각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86491)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86491.py) [설명](https://blog.naver.com/jgyy4775/222656996764)
 
 
 
