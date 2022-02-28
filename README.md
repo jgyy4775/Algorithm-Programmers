@@ -25,6 +25,7 @@
 18.  3진법 뒤집기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68935)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68935.py) [설명]
 19.  문자열 내 마음대로 정렬하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12915)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12915.py) [설명]
 20.  최소직사각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86491)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86491.py) [설명](https://blog.naver.com/jgyy4775/222656996764)
+21.  문자열 다루기 기본 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12918)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12918.py) [설명]
 
 
 
@@ -76,7 +77,7 @@
 44.  땅따먹기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12913)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12913.py) [[설명]](https://blog.naver.com/jgyy4775/222632935723)
 45.  2개 이하로 다른 비트 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77885)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77885.py) [[설명]](https://blog.naver.com/jgyy4775/222648369920)
 46.  영어 끝말잇기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12981)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12981.py) [[설명]](https://blog.naver.com/jgyy4775/222649175439)
-
+47.  올바른 괄호 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12909)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12909.py) [[설명]](https://blog.naver.com/jgyy4775/222660041525)
 
 
 - - -
