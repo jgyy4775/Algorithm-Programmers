@@ -24,7 +24,7 @@
 17.  짝수와 홀수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12937)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12937.py) [설명]
 18.  3진법 뒤집기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68935)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68935.py) [설명]
 19.  문자열 내 마음대로 정렬하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12915)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12915.py) [설명]
-20.  최소직사각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86491)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86491.py) [설명](https://blog.naver.com/jgyy4775/222656996764)
+20.  최소직사각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86491)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86491.py) [[설명]](https://blog.naver.com/jgyy4775/222656996764)
 21.  문자열 다루기 기본 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12918)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12918.py) [설명]
 
 
@@ -120,6 +120,7 @@
 36.  파괴되지 않은 건물  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/92344)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/92344.py) [[설명]](https://blog.naver.com/jgyy4775/222630112558) 
 37.  금과 은 운반하기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86053)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86053.py) [[설명]](https://blog.naver.com/jgyy4775/222630991696) 
 38.  스티커 모으기(2)  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12971)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12971.py) [[설명]](https://blog.naver.com/jgyy4775/222632781893)
+39.  풍선 터트리기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68646)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68646.py) [[설명]](https://blog.naver.com/jgyy4775/222661217336)
 
 
 - - -
