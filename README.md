@@ -121,6 +121,7 @@
 37.  금과 은 운반하기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86053)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86053.py) [[설명]](https://blog.naver.com/jgyy4775/222630991696) 
 38.  스티커 모으기(2)  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12971)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12971.py) [[설명]](https://blog.naver.com/jgyy4775/222632781893)
 39.  풍선 터트리기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68646)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68646.py) [[설명]](https://blog.naver.com/jgyy4775/222661217336)
+40.  스타 수열  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70130)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70130.py) [[설명]](https://blog.naver.com/jgyy4775/222661984766) 
 
 
 - - -
