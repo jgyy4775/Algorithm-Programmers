@@ -78,6 +78,8 @@
 45.  2개 이하로 다른 비트 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/77885)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/77885.py) [[설명]](https://blog.naver.com/jgyy4775/222648369920)
 46.  영어 끝말잇기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12981)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12981.py) [[설명]](https://blog.naver.com/jgyy4775/222649175439)
 47.  올바른 괄호 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12909)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12909.py) [[설명]](https://blog.naver.com/jgyy4775/222660041525)
+48.  점프와 순간이동 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12980)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12980.py) [[설명]](https://blog.naver.com/jgyy4775/222662882747)
+49.  교점에 별 만들기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87377)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87377.py) [[설명]](https://blog.naver.com/jgyy4775/222662882876)
 
 
 - - -
