@@ -26,6 +26,7 @@
 19.  문자열 내 마음대로 정렬하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12915)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12915.py) [설명]
 20.  최소직사각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86491)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86491.py) [[설명]](https://blog.naver.com/jgyy4775/222656996764)
 21.  문자열 다루기 기본 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12918)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12918.py) [설명]
+22.  부족한 금액 계산하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/82612)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/82612.py) [설명]
 
 
 
@@ -82,6 +83,7 @@
 49.  교점에 별 만들기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87377)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87377.py) [[설명]](https://blog.naver.com/jgyy4775/222662882876)
 50.  n^2 배열 자르기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87390)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87390.py) [[설명]](https://blog.naver.com/jgyy4775/222664001960)
 51.  삼각 달팽이 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68645)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68645.py) [[설명]](https://blog.naver.com/jgyy4775/222665301697)
+52.  전력망을 둘로 나누기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86971)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86971.py) [[설명]](https://blog.naver.com/jgyy4775/222666238237)
 
 
 - - -
