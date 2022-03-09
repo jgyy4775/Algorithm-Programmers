@@ -27,6 +27,7 @@
 20.  최소직사각형 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86491)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86491.py) [[설명]](https://blog.naver.com/jgyy4775/222656996764)
 21.  문자열 다루기 기본 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12918)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12918.py) [설명]
 22.  부족한 금액 계산하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/82612)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/82612.py) [설명]
+23.  하샤드 수 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12947)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12947.py) [설명]
 
 
 
@@ -128,6 +129,7 @@
 38.  스티커 모으기(2)  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12971)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12971.py) [[설명]](https://blog.naver.com/jgyy4775/222632781893)
 39.  풍선 터트리기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68646)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68646.py) [[설명]](https://blog.naver.com/jgyy4775/222661217336)
 40.  스타 수열  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70130)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70130.py) [[설명]](https://blog.naver.com/jgyy4775/222661984766) 
+41.  아이템 줍기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87694)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87694.py) [[설명]](https://blog.naver.com/jgyy4775/222667987962) 
 
 
 - - -
