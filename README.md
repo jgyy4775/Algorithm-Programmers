@@ -85,6 +85,8 @@
 50.  n^2 배열 자르기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87390)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87390.py) [[설명]](https://blog.naver.com/jgyy4775/222664001960)
 51.  삼각 달팽이 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68645)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68645.py) [[설명]](https://blog.naver.com/jgyy4775/222665301697)
 52.  전력망을 둘로 나누기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/86971)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/86971.py) [[설명]](https://blog.naver.com/jgyy4775/222666238237)
+53.  괄호 회전하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/76502)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/76502.py) [[설명]](https://blog.naver.com/jgyy4775/222669055337)
+54.  스킬 트리 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/49993)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/49993.py) [[설명]](https://blog.naver.com/jgyy4775/222669055492)
 
 
 - - -
