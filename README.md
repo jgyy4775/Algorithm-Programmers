@@ -88,6 +88,7 @@
 53.  괄호 회전하기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/76502)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/76502.py) [[설명]](https://blog.naver.com/jgyy4775/222669055337)
 54.  스킬 트리 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/49993)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/49993.py) [[설명]](https://blog.naver.com/jgyy4775/222669055492)
 55.  예상 대진표 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12985)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12985.py) [[설명]](https://blog.naver.com/jgyy4775/222669946853)
+56.  쿼드압축 후 개수 세기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68936)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68936.py) [[설명]](https://blog.naver.com/jgyy4775/222679891474)
 
 
 - - -
