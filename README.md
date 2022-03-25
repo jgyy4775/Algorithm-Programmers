@@ -89,6 +89,8 @@
 54.  스킬 트리 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/49993)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/49993.py) [[설명]](https://blog.naver.com/jgyy4775/222669055492)
 55.  예상 대진표 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12985)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12985.py) [[설명]](https://blog.naver.com/jgyy4775/222669946853)
 56.  쿼드압축 후 개수 세기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68936)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68936.py) [[설명]](https://blog.naver.com/jgyy4775/222679891474)
+57.  가장 큰 정사각형 찾기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12905)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12905.py) [[설명]](https://blog.naver.com/jgyy4775/222682750556)
+58.  게임 맵 최단거리  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/1844)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/1844.py) [[설명]](https://blog.naver.com/jgyy4775/222682750817)
 
 
 - - -
