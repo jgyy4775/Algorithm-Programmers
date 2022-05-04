@@ -136,6 +136,7 @@
 39.  풍선 터트리기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68646)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68646.py) [[설명]](https://blog.naver.com/jgyy4775/222661217336)
 40.  스타 수열  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/70130)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/70130.py) [[설명]](https://blog.naver.com/jgyy4775/222661984766) 
 41.  아이템 줍기  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/87694)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/87694.py) [[설명]](https://blog.naver.com/jgyy4775/222667987962) 
+42.  경주로 건설  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/67259)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/67259.py) [[설명]](https://blog.naver.com/jgyy4775/222721114059) 
 
 
 - - -
