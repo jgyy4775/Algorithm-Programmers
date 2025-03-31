@@ -91,6 +91,7 @@
 56.  쿼드압축 후 개수 세기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/68936)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/68936.py) [[설명]](https://blog.naver.com/jgyy4775/222679891474)
 57.  가장 큰 정사각형 찾기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12905)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12905.py) [[설명]](https://blog.naver.com/jgyy4775/222682750556)
 58.  게임 맵 최단거리  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/1844)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/1844.py) [[설명]](https://blog.naver.com/jgyy4775/222682750817)
+59. 택배상자  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/131704)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/131704.py) [[설명]](https://blog.naver.com/jgyy4775/223816686047)
 
 
 - - -
