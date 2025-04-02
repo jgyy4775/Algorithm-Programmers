@@ -92,6 +92,7 @@
 57.  가장 큰 정사각형 찾기 [[링크]](https://programmers.co.kr/learn/courses/30/lessons/12905)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/12905.py) [[설명]](https://blog.naver.com/jgyy4775/222682750556)
 58.  게임 맵 최단거리  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/1844)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/1844.py) [[설명]](https://blog.naver.com/jgyy4775/222682750817)
 59. 택배상자  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/131704)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/131704.py) [[설명]](https://blog.naver.com/jgyy4775/223816686047)
+60. 연속된 부분 수열의 합  [[링크]](https://programmers.co.kr/learn/courses/30/lessons/178870)  [[코드]](https://github.com/jgyy4775/Algorithm-Programmers/blob/main/code/178870.py) [[설명]](https://blog.naver.com/jgyy4775/223820064751)
 
 
 - - -
